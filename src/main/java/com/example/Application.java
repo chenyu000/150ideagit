@@ -13,6 +13,7 @@ public class Application {
         System.out.println("hello world");
         System.out.println();
          System.out.println("I am zhangsan");
+        System.out.println();
     }
 
 }
